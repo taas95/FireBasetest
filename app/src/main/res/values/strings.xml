@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FireBasetest</string>
+    <string name="enter_name">Enter name</string>
+    <string name="add_artist">Add Artist</string>
+    <array name="Gender">
+        <item>Hip Hop</item>
+        <item>RnB</item>
+    </array>
 </resources>
